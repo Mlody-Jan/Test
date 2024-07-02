@@ -1,0 +1,3 @@
+C:/Users/jan.wasilewski/Documents/pulpitv1/build/Desktop_Qt_6_7_2_MinGW_64_bit-Profile/CMakeFiles/CMakeScratch/TryCompile-wm9kxr/CMakeFiles/cmTC_2c206.dir
+C:/Users/jan.wasilewski/Documents/pulpitv1/build/Desktop_Qt_6_7_2_MinGW_64_bit-Profile/CMakeFiles/CMakeScratch/TryCompile-wm9kxr/CMakeFiles/edit_cache.dir
+C:/Users/jan.wasilewski/Documents/pulpitv1/build/Desktop_Qt_6_7_2_MinGW_64_bit-Profile/CMakeFiles/CMakeScratch/TryCompile-wm9kxr/CMakeFiles/rebuild_cache.dir
